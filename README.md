@@ -5,7 +5,7 @@
 </div>
 
 ## Introduction
-I'm a software developer with a focus on the Python programming language. Here, you'll find a collection of projects, contributions, and experiences showcasing my work in building solutions with Python.</p>
+Saya seorang pengembang perangkat lunak dengan fokus pada bahasa pemrograman Python. Di sini, Anda akan menemukan kumpulan proyek, kontribusi, dan pengalaman yang menampilkan karya saya dalam membangun solusi dengan Python</p>
 
 ## Projects
 
