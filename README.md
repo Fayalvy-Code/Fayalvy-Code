@@ -1,7 +1,7 @@
 # Hey There! I'm [Fayalvy](https://github.com/Fayalvy-Code/Fayalvy-Code) 👋
 
 <div align="center">
-  <img align="center" src="https://github.com/RozhakXD/RozhakXD/assets/65714340/bf2c51a6-e570-4d64-af86-1a574e83b267">
+  <img align="center" src="https://i.imghippo.com/files/bFSek1718345221.jpg">
 </div>
 
 ## Introduction
@@ -10,26 +10,11 @@ Saya seorang pengembang perangkat lunak dengan fokus pada bahasa pemrograman Pyt
 ## Projects
 
 ### Project 1: INSTAGRAM HACKING
-- Description: This is a script made purely in Python that works to hack random Instagram accounts.
+- Description: Ini adalah script yang dibuat murni dengan Python yang berfungsi untuk meretas akun Instagram random.
 - Technologies Used: Python.
-- Key Features: This script has very perfect features equipped with the best methods.
-- Demo: You can see my project on [https://github.com/RozhakXD/Premium](https://github.com/RozhakXD/Premium).
+- Key Features: Script ini mempunyai fitur yang sangat sempurna dilengkapi dengan metode terbaik.
+- Demo: Anda dapat melihat proyek saya di [https://github.com/Fayalvy-Code/Fayalvy-Code/MTI](https://github.com/Fayalvy-Code/Fayalvy-Code/MTI).
 
-## Skills
-- **Programming Languages**: Python
-  - Strong understanding of Python syntax.
-  - Handling data structures such as lists, tuples, sets, and dictionaries.
-  - Understanding of object-oriented programming (OOP) concepts in Python.
-  - Utilizing Python's standard modules and libraries for common tasks.
-  - Handling exceptions and performing unit testing.
-  - Understanding of functional programming in Python.
-  - Using popular libraries such as NumPy, Pandas, and Matplotlib for data analysis and visualization.
-- **Version Control**: Git
-  - Using Git for version control of code.
-  - Understanding of basic Git operations like commit, push, pull, and branching.
-  - Collaborating with a team using Git repositories.
-
-Feel free to explore my repositories and don't hesitate to reach out for collaboration or discussions related to Python. Let's connect and create something amazing with Python!
 
 ## Connect with Me
 
