@@ -1,18 +1,18 @@
-# Hey There! I'm [Fayalvy](https://github.com/Fayalvy-Code/Fayalvy-Code) 👋
+### Hey There! I'm [Fayalvy-Code](https://www.facebook.com/Faya.codeOfficial) 👋
 
 <div align="center">
   <img align="center" src="https://i.imghippo.com/files/bFSek1718345221.jpg">
 </div>
 
 ## Introduction
-Saya seorang pengembang perangkat lunak dengan fokus pada bahasa pemrograman Python. Di sini, Anda akan menemukan kumpulan proyek, kontribusi, dan pengalaman yang menampilkan karya saya dalam membangun solusi dengan Python</p>
+**Saya seorang pengembang perangkat lunak dengan fokus pada bahasa pemrograman Python. Di sini, Anda akan menemukan kumpulan proyek, kontribusi, dan pengalaman yang menampilkan karya saya dalam membangun solusi dengan Python**</p>
 
 ## Projects
 
 ### Project 1: INSTAGRAM HACKING
-- Description: Ini adalah script yang dibuat murni dengan Python yang berfungsi untuk meretas akun Instagram random.
-- Technologies Used: Python.
-- Key Features: Script ini mempunyai fitur yang sangat sempurna dilengkapi dengan metode terbaik.
+- Keterangan: Ini adalah script yang dibuat murni dengan Python yang berfungsi untuk meretas akun Instagram random.
+- Teknologi yang Digunakan: Python.
+- Fitur Utama: Script ini mempunyai fitur yang sangat sempurna dilengkapi dengan metode terbaik.
 - Demo: Anda dapat melihat proyek saya di [https://github.com/Fayalvy-Code/Fayalvy-Code/MTI](https://github.com/Fayalvy-Code/Fayalvy-Code/MTI).
 
 
